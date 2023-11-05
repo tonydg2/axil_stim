@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="sim_top_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="sim_top_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="10.000001 us"></ZoomEndTime>
+      <Cursor1Time time="1.999994 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="542"></NameColumnWidth>
+      <ValueColumnWidth column_width="133"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_1/inst/slv_reg4">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg4[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_1/inst/slv_reg5">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg5[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_1/inst/slv_reg6">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg6[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_2/inst/slv_reg4">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg4[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_2/inst/slv_reg5">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg5[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_2/inst/slv_reg6">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg6[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_3/inst/slv_reg4">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg4[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_3/inst/slv_reg5">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg5[31:0]</obj_property>
+   </wvobject>
+   <wvobject type="array" fp_name="/sim_top_tb/sim_top_wrapper_i/sim_top_i/axil_reg32_3/inst/slv_reg6">
+      <obj_property name="DisplayName">FullPathName</obj_property>
+      <obj_property name="ElementShortName">slv_reg6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">slv_reg6[31:0]</obj_property>
+   </wvobject>
+</wave_config>
